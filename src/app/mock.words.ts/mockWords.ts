@@ -59,15 +59,87 @@ export const WORDS:Array<Word> = [
 
     { name: "Pochete", response: false },
     { name: "Respeito", response: true },
-    { name: "Balsa", response: true },
+    { name: "Balsa", response: false },
     { name: "Surpresas", response: false },
     { name: "Facão", response: false },
 
     { name: "A Tesoura", response: true },
-    { name: "Faca", response: true },
+    { name: "Faca", response: false },
     { name: "Cordão", response: false },
     { name: "Palavras", response: false },
     { name: "Amor", response: false },
+
+    { name: "Vigiar", response: false },
+    { name: "Figa", response: false },
+    { name: "Metal", response: true },
+    { name: "Toque", response: false },
+    { name: "Fisico", response: false },
+
+
+    { name: "Vigiar", response: false },
+    { name: "Figa", response: false },
+    { name: "Metal", response: false },
+    { name: "Toque", response: false },
+    { name: "Cortar", response: true },
+
+
+    { name: "Quantidade", response: false },
+    { name: "Tempo", response: false },
+    { name: "Gato", response: true },
+    { name: "Foguete", response: false },
+    { name: "Mega", response: false },
+
+
+
+    { name: "Continuar", response: false },
+    { name: "", response: false },
+    { name: "", response: true },
+    { name: "", response: false },
+    { name: "", response: false },
+
+
+    { name: "Continuar", response: false },
+    { name: "", response: false },
+    { name: "", response: true },
+    { name: "", response: false },
+    { name: "", response: false },
+
+
+    { name: "Continuar", response: false },
+    { name: "", response: false },
+    { name: "", response: true },
+    { name: "", response: false },
+    { name: "", response: false },
+
+
+    { name: "Continuar", response: false },
+    { name: "", response: false },
+    { name: "", response: true },
+    { name: "", response: false },
+    { name: "", response: false },
+
+
+    { name: "Continuar", response: false },
+    { name: "", response: false },
+    { name: "", response: true },
+    { name: "", response: false },
+    { name: "", response: false },
+
+
+    { name: "Continuar", response: false },
+    { name: "", response: false },
+    { name: "", response: true },
+    { name: "", response: false },
+    { name: "", response: false },
+
+
+    { name: "Continuar", response: false },
+    { name: "", response: false },
+    { name: "", response: true },
+    { name: "", response: false },
+    { name: "", response: false },
+
+
 
 
 
